@@ -1,4 +1,10 @@
----
+Description-
+Onshape link is provided, all scraps serve as a timeline of the project. PCB files are attached in .pcb and schematics are in .sch
+
+
+
+ONBOARD GRANT INFO -
+
 Alex Wang
 slack_handle: Alex Wang
 github_handle: sock745
