@@ -1,6 +1,7 @@
 Description-
 Onshape link is provided, all scraps serve as a timeline of the project. PCB files are attached in .pcb and schematics are in .sch
 
+![image](https://github.com/user-attachments/assets/95e6faf0-7039-420a-8228-5930c6d4ce6b)
 
 
 ONBOARD GRANT INFO -
